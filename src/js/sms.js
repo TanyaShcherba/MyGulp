@@ -1,0 +1,1 @@
+alert('G U L P');
